@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+
+# IDE 临时文件
+.vscode/
+.vs/
+Debug/
+Release/
